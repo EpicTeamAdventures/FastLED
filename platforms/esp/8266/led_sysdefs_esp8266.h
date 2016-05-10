@@ -24,7 +24,7 @@ typedef uint8_t boolean;
 #define INTERRUPT_THRESHOLD 1
 #endif
 
-#define NEED_CXX_BITS
+//#define NEED_CXX_BITS
 
 // #define cli() os_intr_lock();
 // #define sei() os_intr_lock();
